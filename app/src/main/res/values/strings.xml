@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContrainLayout</string>
+    <string name="icon_date">Estreno</string>
+    <string name="icon_time">Duracion</string>
+    <string name="des">Descripción</string>
+
+</resources>
